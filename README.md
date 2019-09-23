@@ -15,14 +15,8 @@
     </ul></p>">link</a></ul>
 
 <h2>Reference Links</h2>
-<p><ul>Digital Publishing
-  <li>Medium</li>
-  <li>open access journals</li>
-  <li>social media</li>  
-  </u></p>
-  
- <p><ul>Sample Scalar Pages
-  <li>one </li>
-  <li>two</li>
-  <li>three</li>  
-  </u></p>
+<p><ul>
+  <li>digital publishing: <i>Medium</i>, open access journals, social media</li>
+  <li>sample Scalar pages:</li>
+   </u></p>
+ 
