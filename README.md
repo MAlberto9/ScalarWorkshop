@@ -21,7 +21,7 @@
    </ul></p>
  
 <h2>Scalar Activity</h2>
-<p>Work in small groups to try your hand at Scalar books!</p>
+<p>Work in small groups to try your hand at a Scalar book!</p>
 <p><ol start="1">
   <li>Create 1-2 pages for your Scalar site</li>
   <li>Explore what kinds of content are already available via Scalar partnerships for your subject</li>
