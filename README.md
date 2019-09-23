@@ -2,4 +2,5 @@
 
 by Maria Alberto (graduate fellow, fall 2019)
 
-Scalar homepage: https://scalar.me/anvc/
+Workshop Information & Materials
+  Scalar homepage: https://scalar.me/anvc/
