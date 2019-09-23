@@ -21,9 +21,10 @@
    </ul></p>
  
 <h2>Scalar Activity</h2>
-<p><ul>
-  <ol>Work in small groups on each adaptation</ol>
-  <ol>Create 1-2 pages for your Scalar site</ol>
-  <ol>Experiment with adding media, selecting layout, editing page relationships, changing style</ol>
+<p>Work in small groups to try your hand at Scalar books!</p>
+<p><ol start="1">
+  <li>Create 1-2 pages for your Scalar site</li>
+  <li>Explore what kinds of content are already available via Scalar partnerships for your subject</li>
+  <li>Experiment with adding media, selecting layout, editing page relationships, changing style</li>
     
-</ul></p>
+</ol></p>
