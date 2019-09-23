@@ -1,4 +1,4 @@
-<h1>Digital Matters Scalar Workshop</h1>
+<h1>Scalar Workshop (Digital Matters, The University of Utah)</h1>
 
 <b>by Maria Alberto</b> (graduate fellow, fall 2019)
 <p> <a href="https://scalar.me/anvc/"> Scalar</a> is an open-source authoring platform built to support long-form, multi-media scholarship. It enables authors to integrate their own writing alongside content from a variety of academic and popular sources, all without the need to learn a new coding language or to pay for hosting content.</p>
