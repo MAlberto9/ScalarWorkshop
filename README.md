@@ -16,7 +16,7 @@
 
 <h2>Reference Links</h2>
 <p><ul>
-  <li>digital publishing: <i>Medium</i>, open access journals, social media</li>
+  <li>digital publishing: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>, open access journals (<a href="http://epubs.utah.edu/index.php/HJP"><i>Hinckley</i></a>, <a href="http://epubs.utah.edu/">all</a>), <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">strategic social media</a></li>
   <li>sample Scalar pages: 1) <a href="http://dnaanthology.com/anvc/dna/communicating-the-intermedia-archive-the-theresa-hak-kyung-cha-collection">D|N|A</a>, 2) <a href="http://scalar.usc.edu/works/pathfinders/index">Pathfinders</a>, 3) <a href="https://scalar.me/anvc/showcase/new-media-and-american-literature/"><i>American Literature</i></a></li>
    </u></p>
  
