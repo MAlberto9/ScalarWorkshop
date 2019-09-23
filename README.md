@@ -18,5 +18,12 @@
 <p><ul>
   <li><b>digital publishing:</b> 1) platforms like <a href="https://medium.com/@cfiesler"><i>Medium</i></a>, 2) open access journals (<a href="http://epubs.utah.edu/index.php/HJP"><i>Hinckley</i></a>, <a href="http://epubs.utah.edu/">all</a>), 3) <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">strategic social media</a></li>
   <li><b>sample Scalar pages:</b> 1) <a href="http://dnaanthology.com/anvc/dna/communicating-the-intermedia-archive-the-theresa-hak-kyung-cha-collection">D|N|A</a>, 2) <a href="http://scalar.usc.edu/works/pathfinders/index">Pathfinders</a>, 3) <a href="https://scalar.me/anvc/showcase/new-media-and-american-literature/"><i>American Literature</i></a></li>
-   </u></p>
+   </ul></p>
  
+<h2>Scalar Activity</h2>
+<p><ul>
+  <ol>Work in small groups on each adaptation</ol>
+  <ol>Create 1-2 pages for your Scalar site</ol>
+  <ol>Experiment with adding media, selecting layout, editing page relationships, changing style</ol>
+    
+</ul></p>
