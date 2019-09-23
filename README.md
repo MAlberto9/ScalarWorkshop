@@ -1,4 +1,9 @@
-# ScalarWorkshop
-Materials and descriptions for upcoming Scalar workshop!
+<h1>Digital Matters Scalar Workshop</h1>
 
-Third-year PhD student at the University of Utah and the Fall 2019 graduate fellow at UUtah's Digital Matters! Let's see how this looks as a solid commit. . . 
+<b>by Maria Alberto</b> (graduate fellow, fall 2019)
+
+<h2>Workshop Information & Materials</h2>
+<p><ul>
+  <li>Scalar homepage: https://scalar.me/anvc/</li>
+  <li>login info: printed cards at central table</li>
+</ul>
