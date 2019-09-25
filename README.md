@@ -21,7 +21,7 @@
     
 <h2>Scalar Materials</h2>
 <p><ul>
-  <li><b>slideshow:</b> <a href="https://docs.google.com/presentation/d/1CrsI9b5sQMcMSF36FxPGeu8orc_9qM21J_rToa59WdA/edit#slide=id.g35f391192_00">link</a>
+  <li><b>slideshow:</b> <a href="">link</a> ADD LINK WHEN DONE
 <li><b>sample Scalar pages:</b> 1. <a href="http://dnaanthology.com/anvc/dna/communicating-the-intermedia-archive-the-theresa-hak-kyung-cha-collection">D|N|A</a>, 2. <a href="http://scalar.usc.edu/works/pathfinders/index">Pathfinders</a>, 3. <a href="https://scalar.me/anvc/showcase/new-media-and-american-literature/"><i>American Literature</i></a></li>
   <li><b>Scalar homepage:</b> https://scalar.me/anvc/</li>
   <li><b>login info:</b> printed cards at central table</li></ul></p>
