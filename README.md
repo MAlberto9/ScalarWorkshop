@@ -11,8 +11,7 @@
 <p>There are many available venues for digital publishing - each with its own affordances, possibilities, shortcomings, and politics. Exploring them all even raises the question of what exactly constitutes digital publishing. </p>
 <p><ul>
   <li><b>commercial platforms/content providers</b> (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
-  <li><b>open access journals</b> (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>, 
-    <a href="http://epubs.utah.edu/">all</a>)</li>
+  <li><b>open access academic journals</b> (ex: <a href="http://epubs.utah.edu/">all at UUtah</a>, <a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>)</li>
   <li><b>social media</b> with a strategic academic slant (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
   <li><b>content management systems</b> (ex: <a href="https://omeka.org/s/">OmekaS</a>)</li>
   <li><b>personal blogs & websites</b> (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
@@ -21,7 +20,7 @@
     
 <h2>Scalar Materials</h2>
 <p><ul>
-  <li><b>slideshow:</b> <a href="">link</a> ADD LINK WHEN DONE
+  <li><b>slideshow:</b> <a href="https://docs.google.com/presentation/d/12YeyLOljvS-4hs8HkSLvxn86xzt6czRHv1YWNs9DYlg/edit?usp=sharing">link</a> 
 <li><b>sample Scalar pages:</b> 1. <a href="http://dnaanthology.com/anvc/dna/communicating-the-intermedia-archive-the-theresa-hak-kyung-cha-collection">D|N|A</a>, 2. <a href="http://scalar.usc.edu/works/pathfinders/index">Pathfinders</a>, 3. <a href="https://scalar.me/anvc/showcase/new-media-and-american-literature/"><i>American Literature</i></a></li>
   <li><b>Scalar homepage:</b> https://scalar.me/anvc/</li>
   <li><b>login info:</b> printed cards at central table</li></ul></p>
