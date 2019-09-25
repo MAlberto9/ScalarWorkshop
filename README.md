@@ -5,7 +5,7 @@
 <h2>Overview</h2>
 <p>This workshop will be a hands-on introduction to Scalar, so attendees are encouraged to bring a laptop or tablet capable of Internet access. (Both types of device are available to check out from the Knowledge Commons)</p>
 
-<p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, include an overview of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
+<p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, move on to an introduction of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
 
 <h2>A Brief Look at Digital Publishing</h2>
 <p>There are many available venues for digital publishing - each with its own affordances, possibilities, shortcomings, and politics. Exploring them all even raises the question of what exactly constitutes digital publishing. </p>
