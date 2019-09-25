@@ -10,7 +10,7 @@
 <h2>A Brief Overview of Digital Publishing</h2>
 <p>There are many available venues for digital publishing - each with its own affordances, possibilities, shortcomings, and politics. Exploring them all even raises the question of what exactly constitutes digital publishing. </p>
 <p><ul>
-  <li>commercial platforms/content providers (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
+  <li><b>commercial platforms/content providers</b> (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
   <li>open access journals (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>
     <a href="http://epubs.utah.edu/">all</a>)</li>
   <li>strategic social media (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
