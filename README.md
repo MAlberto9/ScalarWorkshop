@@ -16,7 +16,7 @@
   <li><b>strategic/academic social media</b> (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
   <li><b>content management systems</b> (ex: <a href="https://omeka.org/s/">OmekaS</a>)</li>
   <li><b>personal blogs & websites</b> (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
-  <li><b>unique </b> (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>) and academic (ex: <a href"https://csuohio.academia.edu/JamesMarino">academia.edu) platforms</a></li>
+  <li><b>unique </b> (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>) and <b>academic</b> (ex: <a href="https://csuohio.academia.edu/JamesMarino">academia.edu platforms</a></li>
   </u></p>
     
 <h2>Scalar Materials</h2>
