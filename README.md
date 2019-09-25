@@ -18,8 +18,7 @@
   <li>personal blogs & websites (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
   <li>unique platforms (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>)</li>
   </u></p>
-  
-  
+    
 <h2>Important Materials</h2>
 <p><ul>
   <li><b>slideshow:</b> <a href="https://docs.google.com/presentation/d/1CrsI9b5sQMcMSF36FxPGeu8orc_9qM21J_rToa59WdA/edit#slide=id.g35f391192_00">link</a>
