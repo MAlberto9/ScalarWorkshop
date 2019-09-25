@@ -5,23 +5,23 @@
 <h2>Overview</h2>
 <p>This workshop will be a hands-on introduction to Scalar, so attendees are encouraged to bring a laptop or tablet capable of Internet access. (Both types of device are available to check out from the Knowledge Commons)</p>
 
-<p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, include an overview of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
+<p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, move on to an introduction of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
 
-<h2>A Brief Overview of Digital Publishing</h2>
+<h2>A Brief Look at Digital Publishing</h2>
 <p>There are many available venues for digital publishing - each with its own affordances, possibilities, shortcomings, and politics. Exploring them all even raises the question of what exactly constitutes digital publishing. </p>
 <p><ul>
-  <li>commercial platforms/content providers (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
-  <li>open access journals (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>
+  <li><b>commercial platforms/content providers</b> (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
+  <li><b>open access journals</b> (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>, 
     <a href="http://epubs.utah.edu/">all</a>)</li>
-  <li>strategic social media (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
-  <li>content management systems (ex: <a href="https://omeka.org/s/">OmekaS</a>)</li>
-  <li>personal blogs & websites (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
-  <li>unique platforms (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>)</li>
+  <li><b>social media</b> with a strategic academic slant (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
+  <li><b>content management systems</b> (ex: <a href="https://omeka.org/s/">OmekaS</a>)</li>
+  <li><b>personal blogs & websites</b> (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
+  <li><b>unique </b> (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>) and <b>academic</b> (ex: <a href="https://csuohio.academia.edu/JamesMarino">academia.edu</a>) platforms</li>
   </u></p>
     
-<h2>Important Materials</h2>
+<h2>Scalar Materials</h2>
 <p><ul>
-  <li><b>slideshow:</b> <a href="https://docs.google.com/presentation/d/1CrsI9b5sQMcMSF36FxPGeu8orc_9qM21J_rToa59WdA/edit#slide=id.g35f391192_00">link</a>
+  <li><b>slideshow:</b> <a href="">link</a> ADD LINK WHEN DONE
 <li><b>sample Scalar pages:</b> 1. <a href="http://dnaanthology.com/anvc/dna/communicating-the-intermedia-archive-the-theresa-hak-kyung-cha-collection">D|N|A</a>, 2. <a href="http://scalar.usc.edu/works/pathfinders/index">Pathfinders</a>, 3. <a href="https://scalar.me/anvc/showcase/new-media-and-american-literature/"><i>American Literature</i></a></li>
   <li><b>Scalar homepage:</b> https://scalar.me/anvc/</li>
   <li><b>login info:</b> printed cards at central table</li></ul></p>
@@ -29,7 +29,7 @@
 
 <h2>Scalar Activity</h2>
 <p>Work in small groups to try your hand at a Scalar book!</p>
-<p><ol start="1">
+<p><ol start="1.">
   <li>Create 1-2 pages for your Scalar site</li>
   <li>Explore what kinds of content are already available via Scalar partnerships for your subject</li>
   <li>Experiment with adding media, selecting layout, editing page relationships, changing style</li>
