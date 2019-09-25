@@ -11,12 +11,12 @@
 <p>There are many available venues for digital publishing - each with its own affordances, possibilities, shortcomings, and politics. Exploring them all even raises the question of what exactly constitutes digital publishing. </p>
 <p><ul>
   <li><b>commercial platforms/content providers</b> (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
-  <li><b>open access journals</b> (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>
+  <li><b>open access journals</b> (ex:<a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>, 
     <a href="http://epubs.utah.edu/">all</a>)</li>
-  <li><b>strategic/academic social media</b> (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
+  <li><b>social media</b> with a strategic academic slant (ex: <a href="https://www.chronicle.com/blogs/profhacker/getting-started-on-academic-twitter-v2-0/63451">intro</a>, <a href="https://twitter.com/udigitalmatters">Digital Matters Twitter</a>, <a href="https://www.instagram.com/u.digitalmatters/"> Digital Matters Instagram</a>)
   <li><b>content management systems</b> (ex: <a href="https://omeka.org/s/">OmekaS</a>)</li>
   <li><b>personal blogs & websites</b> (ex: <a href="https://www.weebly.com/"> Weebly</a>)</li>
-  <li><b>unique </b> (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>) and <b>academic</b> (ex: <a href="https://csuohio.academia.edu/JamesMarino">academia.edu platforms</a></li>
+  <li><b>unique </b> (ex: <a href="https://ravenspacepublishing.org/publications/as-i-remember-it/">RavenSpace</a>) and <b>academic</b> (ex: <a href="https://csuohio.academia.edu/JamesMarino">academia.edu</a> platforms</li>
   </u></p>
     
 <h2>Scalar Materials</h2>
