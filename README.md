@@ -1,9 +1,9 @@
 <h1>Scalar Workshop at Digital Matters (UUtah)</h1>
 <p><b>by Maria Alberto</b> (Digital Matters graduate fellow, fall 2019)</p>
-<p> <a href="https://scalar.me/anvc/"> Scalar</a> is an open-source authoring platform built to support long-form, multi-media scholarship. It enables authors to integrate their own writing alongside content from a variety of academic and popular sources, all without the need to learn a new coding language or to pay for hosting content.</p>
+<p> <a href="https://scalar.me/anvc/"> Scalar</a> is an open-source authoring platform built to support long-form, multi-media scholarship. It enables authors to integrate their own writing alongside content from a variety of academic and popular sources, all without the need to learn extensive coding or to pay for hosting content.</p>
 
 <h2>Overview</h2>
-<p>This workshop will be a hands-on introduction to Scalar, so attendees are encouraged to bring a laptop or tablet capable of Internet access. (Both types of device are available to check out from the Knowledge Commons)</p>
+<p>This workshop will be a hands-on introduction to Scalar, so attendees are encouraged to bring a laptop or tablet capable of Internet access. <i>(Both types of device are available to check out from the Knowledge Commons if needed!)</i></p>
 
 <p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, move on to an introduction of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
 
@@ -29,8 +29,9 @@
 <h2>Scalar Activity</h2>
 <p>Work in small groups to try your hand at a Scalar book!</p>
 <p><ol start="1.">
-  <li>Create 1-2 pages for your Scalar site</li>
-  <li>Explore what kinds of content are already available via Scalar partnerships for your subject</li>
-  <li>Experiment with adding media, selecting layout, editing page relationships, changing style</li>
+  <li>Generate 1-2 pages for your Scalar project</li>
+  <li>Explore importing and/or linking media</li>
+  <li>Create relationships among pages (tags, paths, annotations)</li> 
+    <li>Experiment with style, layout, and text formatting on different pages <i>(<a href= "https://www.lipsum.com/">here's a lorum ipsum generator</a> if you need placeholder text!)</i> </li>
     
 </ol></p>
