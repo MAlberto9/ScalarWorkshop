@@ -10,7 +10,7 @@
 <h2>A Brief Look at Digital Publishing</h2>
 <p>There's not necessarily a consensus on what digital publishing is, or what it should be used for. "Being" published? Preserving scholarly work? Publicizing it or making it accessible? <a href="https://www.chronicle.com/article/Which-Publications-Matter-at/247192">Here's some related thoughts</a> from <i>The Chronicle of Higher Education</i>, too. . .</p>
   
- <p>To make things even more complicated, there are many available venues for digital publishing, and each has its own reputation, affordances, and shortcomings. For example, we might think about the time, costs, coding, and accessibility that come with each of these options. </p>
+ <p>To make things even more complicated, there are many available venues for digital publishing, and each has its own reputation, affordances, and shortcomings. For example, we might think about the time, costs, coding, accessibility, and professional benefit that may or may not come with each of these options. </p>
 <p><ul>
   <li><b>commercial platforms/content providers</b> (ex: <a href="https://medium.com/@cfiesler"><i>Medium</i></a>)</li>
   <li><b>open access academic journals</b> (ex: <a href="http://epubs.utah.edu/">all at UUtah</a>, <a href="http://epubs.utah.edu/index.php/HJP"><i> Hinckley</i></a>)</li>
