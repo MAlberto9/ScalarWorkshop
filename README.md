@@ -31,7 +31,7 @@
 <h2>Scalar Activity</h2>
 <p>Work in small groups to try your hand at a Scalar book!</p>
 <p><ol start="1.">
-  <li>Generate 1-2 pages for your book</li>
+  <li>Generate 1-2 pages for your book (some options: an "introduction," "source text," "film adaptations")</li>
   <li>Explore importing and/or linking media</li>
   <li>Create relationships among pages (tags, paths, annotations)</li> 
     <li>Experiment with style, layout, and text formatting on different pages <i>(<a href= "https://www.lipsum.com/">here's a lorum ipsum generator</a> if you need placeholder text!)</i> </li>
