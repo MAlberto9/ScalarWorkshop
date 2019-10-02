@@ -5,7 +5,7 @@
 <h2>Overview</h2>
 <p>This workshop will be a hands-on introduction to Scalar, so attendees are encouraged to bring a laptop or tablet capable of Internet access. <i>(Both types of device are available to check out from the Knowledge Commons if needed!)</i></p>
 
-<p>We'll begin with a brief look at digital publishing, continue with a visit to some Scalar projects, move on to an introduction of Scalar functionalities, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
+<p>We'll begin with a brief look at digital publishing, move on to an introduction of Scalar and its features, and conclude with some time for participants to try Scalar out for themselves. Previous experience with Scalar or personal Scalar account are not required in order to participate!</p> 
 
 <h2>A Brief Look at Digital Publishing</h2>
 <p>There's not necessarily a consensus on what digital publishing is, or what it should be used for. "Being" published? Preserving scholarly work? Publicizing it or making it accessible? <a href="https://www.chronicle.com/article/Which-Publications-Matter-at/247192">Here's some related thoughts</a> from <i>The Chronicle of Higher Education</i>, too. . .</p>
